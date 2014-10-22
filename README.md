@@ -1,7 +1,7 @@
 Distributed Algorithms
 ======================
 
-Lecture slides from by Jukka Suomela.
+Lecture slides by Jukka Suomela.
 
 For the accompanying textbook, see:
 http://users.ics.aalto.fi/suomela/da/
