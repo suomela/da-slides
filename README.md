@@ -12,6 +12,7 @@ For more information on the lecture course, see:
   - http://users.ics.aalto.fi/suomela/da-2014/
   - http://users.ics.aalto.fi/suomela/da-2015/
   - https://mycourses.aalto.fi/course/view.php?id=13072
+  - https://mycourses.aalto.fi/course/view.php?id=16947
 
 
 License
