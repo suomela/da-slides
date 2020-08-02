@@ -5,12 +5,12 @@ Lecture slides by Jukka Suomela.
 
 For the accompanying textbook, see:
 
-  - https://users.ics.aalto.fi/suomela/da/
+  - https://jukkasuomela.fi/da/
 
 For more information on the lecture course, see:
 
-  - https://users.ics.aalto.fi/suomela/da-2014/
-  - https://users.ics.aalto.fi/suomela/da-2015/
+  - https://jukkasuomela.fi/da-2014/
+  - https://jukkasuomela.fi/da-2015/
   - https://mycourses.aalto.fi/course/view.php?id=13072
   - https://mycourses.aalto.fi/course/view.php?id=16947
   - https://mycourses.aalto.fi/course/view.php?id=20591
